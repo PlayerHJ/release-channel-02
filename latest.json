@@ -1,26 +1,26 @@
 {
   "protocol": 1,
   "app": "nx-02",
-  "version": "1.0.0",
-  "url": "https://github.com/PlayerHJ/release-channel-02/releases/download/v1.0.0/payload.bin",
-  "size": 17482937,
-  "sha256": "e04739f120fb1955b84c96f6e1b0b11c8cf47edda6d836b2baf27851d45e1a78",
+  "version": "1.0.1",
+  "url": "https://github.com/PlayerHJ/release-channel-02/releases/download/v1.0.1/payload.bin",
+  "size": 17523897,
+  "sha256": "6ffd886ac843dde90617472df66f3bc51923fb0c2ae2aec271aaed0d3f0e9a5c",
   "files": [
     {
       "name": "main.nro",
-      "size": 13547431,
-      "sha256": "e8e72e9f32cb798009f7845cf1fb52db7425b41c9fe0d4db1b1dfb6ccc778341"
+      "size": 13588391,
+      "sha256": "782ed99d5aac15a1e605fc9fa70a8d85858992f92aa4cc026f075d28d97fe11a"
     },
     {
       "name": "menu.ovl",
       "size": 1877141,
-      "sha256": "62675ec275d61cf7a48a7899c3fef86996fd59ecaa04653fb3fb2a3effc6a7c3"
+      "sha256": "9a8c3f6fa9976da188d3377a66eb0bf1c7ef1880f621a2a7f726ca93fbd1dc22"
     },
     {
       "name": "service.nsp",
       "size": 2058333,
-      "sha256": "20aacfaa5a031f499cddc8c71d4a014d5b9c9810b0c76f427d6d40d3363d9c05"
+      "sha256": "9237c8c8edf9519b60775fdd8c9a5f4cdf820ffa5b419661c6ad1cc66f0d1a06"
     }
   ],
-  "signature": "6a569e87e3e77510f4a9f7c3675aa3a04e43c3632397a0be3f02c88ccaa94b7907fd31f0e4fd9dc3f0e6d2c0535562926b00f2dd92e432a9d599a0b42135de5b993e4860fec7b830801466e12092812ed9f38b3492da7d6faa9a9e9cc546d660e6a6b09c45abbfe78f586af6258ff395c14ee55afac9f3cd2df8b3e04434754264be54b04d5e34f71ceed5baa2909ce0ab8b0817ec55915305aec40d02b463c70a576e2da78db70db9362d8a461d6a68d62adcd358b4d4467b5ff791ca6a3d0d902686c58f60f9ead3afe64b5a197abca60fd4dcdaf3ef461b1f330678bb58cce67a4974eae591efd5aa2dee858b15f71eec658ca1914f65164a717e86bf7033"
+  "signature": "2be1d68c74e27c6f78b51ea67a8af6179ab491797a33b7b536821ca029194734a20826d4e2a012e56df716c70bbb51ac44d0d178ea8dbbdeb6d312aa93a14e0f582d04ec3db31ed214f3ebe90126a36fd0da737dd58aca3cc3dd88556e3c9a1b4f203d9816f51abe9b3ffee2a8d32d1bd327729232853bb399b9fd5c0e15c756d89779ca191a248da49c2423a05b8d2f69f023a8cb65940276e3aec4994f67f5eefa6c8ee59d96e9f784b5869263ad2503ca45326515df5ec7477f96d6f401978f8075f8573137dc771d32d118d212ae65797b8d05935dcda9efb9dfa06398c6e7b8c768459a88e2846de47d1fcae2d1411fba96da76438c229903709adf225d"
 }
