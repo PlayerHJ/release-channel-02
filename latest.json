@@ -1,26 +1,26 @@
 {
   "protocol": 1,
   "app": "nx-02",
-  "version": "1.0.1",
-  "url": "https://github.com/PlayerHJ/release-channel-02/releases/download/v1.0.1/payload.bin",
+  "version": "1.0.2",
+  "url": "https://github.com/PlayerHJ/release-channel-02/releases/download/v1.0.2/payload.bin",
   "size": 17523897,
-  "sha256": "6ffd886ac843dde90617472df66f3bc51923fb0c2ae2aec271aaed0d3f0e9a5c",
+  "sha256": "4dde9fe4a900269eb5c6733cd9e87f2afe207849602910bc2cc3330e12149bf9",
   "files": [
     {
       "name": "main.nro",
       "size": 13588391,
-      "sha256": "782ed99d5aac15a1e605fc9fa70a8d85858992f92aa4cc026f075d28d97fe11a"
+      "sha256": "d15d461f4d9595f906f6a25b047b4eaebfaf9ce4d7ebb0fd904e4f757ee1cf5f"
     },
     {
       "name": "menu.ovl",
       "size": 1877141,
-      "sha256": "9a8c3f6fa9976da188d3377a66eb0bf1c7ef1880f621a2a7f726ca93fbd1dc22"
+      "sha256": "10e2f952bb5ef06e18a9e292c2dbbcdfefcb37040724a5e683d8cd8a47da4eea"
     },
     {
       "name": "service.nsp",
       "size": 2058333,
-      "sha256": "9237c8c8edf9519b60775fdd8c9a5f4cdf820ffa5b419661c6ad1cc66f0d1a06"
+      "sha256": "5cdff4f728ab3055fed585e67ad74cb02ec3ce5b5b266f8b9e3d7361e8e1fd59"
     }
   ],
-  "signature": "2be1d68c74e27c6f78b51ea67a8af6179ab491797a33b7b536821ca029194734a20826d4e2a012e56df716c70bbb51ac44d0d178ea8dbbdeb6d312aa93a14e0f582d04ec3db31ed214f3ebe90126a36fd0da737dd58aca3cc3dd88556e3c9a1b4f203d9816f51abe9b3ffee2a8d32d1bd327729232853bb399b9fd5c0e15c756d89779ca191a248da49c2423a05b8d2f69f023a8cb65940276e3aec4994f67f5eefa6c8ee59d96e9f784b5869263ad2503ca45326515df5ec7477f96d6f401978f8075f8573137dc771d32d118d212ae65797b8d05935dcda9efb9dfa06398c6e7b8c768459a88e2846de47d1fcae2d1411fba96da76438c229903709adf225d"
+  "signature": "36786cc4dc6b6a14074be305db7a6841a5e677c63893f985ac3acc54885b6e13c4d2e552c149d1289becc373223f3f8337387401eabf4618ad114a70571f7ab7dde860595e699078f20eaf6553f4dd3bc76cea46587ed8711a01f7bf7aeb8d64c9476f467df3583696f8bdc9a2f285ba32596448994dad7294e6ff64bb31b183ebd4eb607380bbe86b236f0bb9ccbfec32648ab29065f4eae09c3d2305ab62c5886f60583103470a4de480973ab05447282fb507a6bbdf0e1aea006b446c0b6d690fc110285288c95f847d9fc33c6b0f5093216196df2ef6f21a0e284448de64fa73efa1343252267dedd7324fefbd18b5c6e3581c5dd72678c6999add4e540b"
 }
