@@ -1,0 +1,26 @@
+{
+  "protocol": 1,
+  "app": "nx-02",
+  "version": "0.3.0",
+  "url": "https://github.com/PlayerHJ/release-channel-02/releases/download/v0.3.0/payload.bin",
+  "size": 17482937,
+  "sha256": "7c9a616ccab13351e9ee60b0b97f5b888be4231c5912d91435b1b5dbbd6a78bb",
+  "files": [
+    {
+      "name": "main.nro",
+      "size": 13547431,
+      "sha256": "0d3fd1de86ebf02a4c23b2f685da9ad8dd6c37a7451d620ac0b52460d1303ea5"
+    },
+    {
+      "name": "menu.ovl",
+      "size": 1877141,
+      "sha256": "02a8716d04f2ac45a7f910dcaa9f99f98636e6732bbe1dd23da5bbd08e2d5c81"
+    },
+    {
+      "name": "service.nsp",
+      "size": 2058333,
+      "sha256": "64ed32a62aa1f380c129865ada198a8736497dac5e3ff003b8a7f955b978911a"
+    }
+  ],
+  "signature": "74f386f5a44b630f73486898c01729dcc4ee13beb0c6ecfd6dc8aac7c1f4c45fdeff153ea110d639b62f8c6c373c2346b10aba0a092d77001ff8a8a754e87b955aa895aa7d8504a172b9aa7b6402cfbddbad8fb3295f993c283d9613716d450a0e23674b19647786a38a8f989b4b5fed1649b40b723ff209b3c340ae98ca109361f4a29897ac0405789ac2e252132d72c2c2461e4e52af4dcfe0dbfc19061f188b66816601482d7acbd56e67c23f20214e49a52491c77225d2466858b535eeff5515603368c01b3d4d7871336226624a5cfc8ee7a691ca91343b5e0a7530e476b133b8d8f93b205674b05769c097682ba9fd361c5fd5dc692c6f209ba1b7ee96"
+}
